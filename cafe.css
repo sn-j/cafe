@@ -50,6 +50,7 @@ td {
   text-align: center;
   font-size: 30px;
   letter-spacing: 2px;
+  font-weight: 500;
 }
 
 .coffee img {
@@ -62,6 +63,7 @@ td {
   margin-top: 6%;
   text-align: center;
   letter-spacing: 2px;
+  font-weight: 500;
 }
 
 .desserts img {
