@@ -49,6 +49,7 @@ td {
   margin-top: 4%;
   text-align: center;
   font-size: 30px;
+  letter-spacing: 2px;
 }
 
 .coffee img {
@@ -60,6 +61,7 @@ td {
 .desserts h2 {
   margin-top: 6%;
   text-align: center;
+  letter-spacing: 2px;
 }
 
 .desserts img {
