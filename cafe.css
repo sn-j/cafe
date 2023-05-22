@@ -1,0 +1,78 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.body img {
+  background-size: cover;
+}
+
+.menu {
+  border-radius: 4px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: burlywood;
+  padding: 1.5%;
+  width: 30%;
+}
+
+h1,
+h2 {
+  font-family: Impact, serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#est {
+  margin: 2% 0 0 0;
+  text-align: center;
+}
+
+.divider {
+  margin: 5% 0 3% 0;
+  color: brown;
+  background-color: brown;
+  height: 3px;
+}
+
+td {
+  width: 100%;
+  padding-top: 3px;
+}
+
+.coffee h2 {
+  margin-top: 4%;
+  text-align: center;
+  font-size: 30px;
+}
+
+.coffee img {
+  margin-left: 45%;
+  width: 10%;
+  margin-top: 1%;
+}
+
+.desserts h2 {
+  margin-top: 6%;
+  text-align: center;
+}
+
+.desserts img {
+  margin-left: 45%;
+  width: 10%;
+  margin-top: 5%;
+}
+
+.visit {
+  text-align: center;
+  font-size: 11px;
+}
+
+.visit a {
+  color: black;
+}
